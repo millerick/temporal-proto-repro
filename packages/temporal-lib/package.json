@@ -1,0 +1,2 @@
+{ "name": "temporal-lib", "version": "1.0.0", "private": true,
+  "dependencies": { "@temporalio/common": "1.25.0", "@temporalio/proto": "1.25.0" } }
